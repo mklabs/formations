@@ -1,0 +1,16 @@
+{
+  "name": "choubadou",
+  "version": "1.0.0",
+  "description": "Formation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "mklabs",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4"
+  }
+}
